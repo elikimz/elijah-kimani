@@ -22,7 +22,7 @@ export const variables = () => {
 
     // Challenge 3: Logging Function
     // Create a function logMessage that takes a message and logs it
-    function logMessage(message: string) {
+    function logMessage(messsage: string) {
         // Your code here
     }
     logMessage("Hello TypeScript!"); // Should log to console
